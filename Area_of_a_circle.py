@@ -1,4 +1,5 @@
-PI=3.14
+
+pi=3.14
 r=int(input())
-ar=PI*r*r
+ar=pi*r*r
 print('%.2f'%ar)
